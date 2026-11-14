@@ -13,6 +13,7 @@ Orquesta estrategias integrales de SEO tradicional, GEO (Generative Engine Optim
 - Redactar o evaluar paginas comerciales y articulos YMYL utilizando el semaforo de citabilidad, Bibliotecas IA, Prompteca y formatos multimodales Blog360IA.
 - Generar activos tecnicos listos para implementar: `robots.txt` para bots de IA, auditoria de `sitemap.xml`, matrices de interlinking, metatitulos, Schema JSON-LD (`AccountingService`, `Person`, `FAQPage`) y herramientas WebMCP.
 - Optimizar la presencia en el Local Pack de Google Maps y la autoridad de entidad (CPC, FCCPV, camaras empresariales) en ciudades venezolanas.
+- Incorporar agentes de IA (Instinct, Gemini, OCR-LLM) en la operacion de contenidos y digitalizacion del despacho, con validacion humana y fuente oficial.
 
 ## Flujo de Trabajo
 
@@ -50,6 +51,15 @@ Aplica cuando el objeto sea un perfil, pagina o canal social de un despacho (no 
 - Objeto por plataforma: Instagram (perfil), Facebook (la Pagina: categoria declarada, seccion Informacion, boton de llamada a la accion, resenas), TikTok (perfil @usuario; respuesta directa en los primeros segundos y texto en pantalla legible sin sonido), YouTube (canal @handle; listas de reproduccion por servicio, titulos y descripciones que trabajan SEO clasico y citabilidad a la vez), Telegram (canal o grupo publico, con vista previa web sin cuenta en t.me/s/<canal>).
 - Wikipedia no es red social ni canal promocional: es fuente de autoridad de entidad. Un articulo o una ficha de Wikidata alimenta el Knowledge Graph de Google y las respuestas de IA, pero la creacion de articulos exige relevancia enciclopedica con fuentes secundarias fiables y prohibe la autopromocion. Evalua el estado actual (existencia de articulo o elemento de Wikidata, consistencia de los datos con la web propia, cobertura en fuentes secundarias), nunca «como publicarse».
 
+## Uso de Agentes de IA (Instinct, Gemini, OCR-LLM)
+
+Para despachos que sistematizan su operacion con IA. Los agentes son herramientas bajo direccion y aprobacion humana: no sustituyen el juicio del contador que firma ni certifican por si solos exactitud normativa.
+
+- Agentes operativos (Instinct): asistentes que ejecutan tareas recurrentes por encargo del usuario con las cuentas y documentos que este autoriza: monitoreo de gacetas y competencia, investigacion con fuentes citables, preparacion y mantenimiento de documentos y borradores. En la estrategia SEO/GEO cubren el ciclo de demanda viva (que pregunta el mercado), la revision periodica de competidores y la preparacion de piezas que el despacho revisa y aprueba antes de publicar.
+- Asistentes de analisis y redaccion (Gemini): apoyo para analizar normativa, estructurar articulos y preparar borradores YMYL; toda afirmacion normativa se valida contra su fuente oficial antes de publicarse.
+- Digitalizacion documental (OCR-LLM): el OCR extrae el texto de documentos escaneados (facturas, comprobantes de retencion) y el LLM lo estructura y coteja contra campos definidos; requiere validacion humana y fuente oficial para lo normativo, y no certifica por si solo exactitud normativa.
+- Regla YMYL con IA: el contenido se publica bajo responsabilidad profesional del despacho; la IA redacta y organiza, el contador valida y firma (credenciales CPC/FCCPV visibles), y cada pieza declara su fuente oficial.
+
 ## Errores Comunes y Reglas Criticas
 
 - Ortografia exacta de marca: Escribe siempre AdaptaPro (A y P mayusculas, sin espacio). Nunca escribas "Adaptapro", "Adapta Pro" ni variantes en minusculas.
@@ -60,3 +70,5 @@ Aplica cuando el objeto sea un perfil, pagina o canal social de un despacho (no 
 ---
 
 Actualizacion 14-11-2026: incorporadas la clasificacion de senales, la honestidad de resultados y la evaluacion de redes sociales por plataforma (Instagram, Facebook, TikTok, YouTube, Telegram) con Wikipedia como autoridad de entidad; declarado el estado pendiente de los archivos de `references/`.
+
+Actualizacion 14-11-2026 (tarde): incorporada la seccion de uso de agentes de IA (Instinct, Gemini, OCR-LLM) con validacion humana y fuente oficial.
