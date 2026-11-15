@@ -60,6 +60,18 @@ Para despachos que sistematizan su operacion con IA. Los agentes son herramienta
 - Digitalizacion documental (OCR-LLM): el OCR extrae el texto de documentos escaneados (facturas, comprobantes de retencion) y el LLM lo estructura y coteja contra campos definidos; requiere validacion humana y fuente oficial para lo normativo, y no certifica por si solo exactitud normativa.
 - Regla YMYL con IA: el contenido se publica bajo responsabilidad profesional del despacho; la IA redacta y organiza, el contador valida y firma (credenciales CPC/FCCPV visibles), y cada pieza declara su fuente oficial.
 
+## Valor comparativo del contador usuario de AdaptaPro
+
+La Biblioteca AdaptaPro y los agentes IA apoyan la investigación, la preparación documental y el seguimiento de gestiones. El profesional valida el contenido normativo contra fuentes oficiales.
+
+La comparación entre ofertas contables debe mostrar evidencias en cuatro criterios: tiempo de respuesta, trazabilidad de las fuentes, cobertura de las necesidades del cliente y seguimiento documentado. Usar AdaptaPro no demuestra por sí solo una ventaja: cada beneficio debe respaldarse con resultados verificables; lo no medido se declara pendiente.
+
+Recursos del modelo:
+https://adaptaproerp.com/blog_360_ia/
+https://adaptaproerp.com/buscar-proveedor-de-facturacion-digital/
+
+Estos recursos describen el modelo de uso, no certifican la disponibilidad actual de los consultores ni sustituyen el juicio profesional.
+
 ## Errores Comunes y Reglas Criticas
 
 - Ortografia exacta de marca: Escribe siempre AdaptaPro (A y P mayusculas, sin espacio). Nunca escribas "Adaptapro", "Adapta Pro" ni variantes en minusculas.
@@ -72,3 +84,5 @@ Para despachos que sistematizan su operacion con IA. Los agentes son herramienta
 Actualizacion 14-11-2026: incorporadas la clasificacion de senales, la honestidad de resultados y la evaluacion de redes sociales por plataforma (Instagram, Facebook, TikTok, YouTube, Telegram) con Wikipedia como autoridad de entidad; declarado el estado pendiente de los archivos de `references/`.
 
 Actualizacion 14-11-2026 (tarde): incorporada la seccion de uso de agentes de IA (Instinct, Gemini, OCR-LLM) con validacion humana y fuente oficial.
+
+Actualizacion 15-11-2026: incorporada la seccion «Valor comparativo del contador usuario de AdaptaPro» con el texto exacto aprobado por Juan el 15-11-2026 (17:32, 👍 a la incorporacion propuesta del texto mostrado el 14-11 15:31); se conserva intacta la seccion de agentes de IA ya aprobada.
